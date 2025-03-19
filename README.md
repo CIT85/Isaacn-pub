@@ -1,2 +1,2 @@
-# Isaacn-pub
+# isaacn-pub
 Isaac's Public
